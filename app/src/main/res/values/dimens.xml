@@ -5,5 +5,7 @@
     <dimen name="buttonViewHeight">40dp</dimen>
     <dimen name="textViewWidth">200dp</dimen>
     <dimen name="textViewHeight">40dp</dimen>
+    <dimen name="margin">50dp</dimen>
+    <dimen name="padding">50dp</dimen>
 
 </resources>
