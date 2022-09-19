@@ -50,10 +50,10 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_width="107dp"
+        android:layout_height="94dp"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/padding"
         android:src="@drawable/lb_ic_cc" />
 
 </RelativeLayout>
